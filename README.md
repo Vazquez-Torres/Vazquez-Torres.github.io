@@ -4,10 +4,10 @@
 # Agencia de viajes
 ## Table of contents
 
-- [Features](#features)
-- [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Plans](#plans)
+- [servicios](./servicios)
+- [destinos](./destinos)
+- [hospedaje](./hospedaje)
+- [contrato de servicios](./contratodeservicios)
 - [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
