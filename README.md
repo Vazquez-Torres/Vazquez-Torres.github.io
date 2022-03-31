@@ -1,4 +1,5 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+![image](https://user-images.githubusercontent.com/99847355/161160627-b2fbb32e-1be0-4747-83c0-8b834ebde127.png)
+
 
 # Beautiful Jekyll
 
