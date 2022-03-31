@@ -2,7 +2,7 @@
 
 
 # Agencia de viajes
-## Table of contents
+## Tabla de contenidos
 
 - [servicios](./servicios)
 - [destinos](./destinos)
